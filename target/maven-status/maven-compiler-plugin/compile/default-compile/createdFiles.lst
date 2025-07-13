@@ -1,0 +1,4 @@
+com/example/todo/TodoAppApplication.class
+com/example/todo/model/Task.class
+com/example/todo/repository/TaskRepository.class
+com/example/todo/controller/TaskController.class
